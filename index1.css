@@ -83,6 +83,7 @@ h2{
 h1{
     font-style: italic;
     font-size: xx-large;
+    color: red;
 }
 .fourth-container{
     align-items: center;
@@ -138,3 +139,4 @@ h1 {
     font-size: 8vw;
   }
 }
+
