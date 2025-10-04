@@ -1,0 +1,32 @@
+body{
+    background-image: url(poo.jpg);
+    text-align: center;
+    justify-self: center;
+    justify-content: center;
+    background-position: cover;
+    
+}
+
+.contact-box{
+    background: blanchedalmond;
+    width: 400px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 15px black;
+    text-align: center;
+    justify-content: center;
+    margin: 50% auto 50% auto;
+}
+.contact-box h1{
+    margin-bottom: 15px;
+    color: black;
+}
+.contact-box p{
+    margin: 10px 0;
+    color: black;
+    font-style: italic;
+}   
+.contact-box a{
+    color: red;
+    text-decoration: underline;
+}
